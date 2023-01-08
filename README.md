@@ -11,6 +11,12 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/java/java-original-wordmark.svg">
  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="FIG" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/figma/figma-original.svg">
+   <img align="center" alt="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+   <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/spring/spring-original.svg">
 </div>
   
   ##
