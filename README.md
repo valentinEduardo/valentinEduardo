@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/valentinEduardo">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=tokyonight" alt="valentinEduardo" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=15&theme=tokyonight&locale=pt-br" alt="valentinEduardo"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="valentinEduardo" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=15&theme=radical&locale=pt-br" alt="valentinEduardo"/>
 </div>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinEduardo&theme=tokyonight&locale=pt-br" alt="valentinEduardo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinEduardo&theme=radical&locale=pt-br" alt="valentinEduardo" /></p>
 </div>
 
 <div style="display: inline_block"><br>
