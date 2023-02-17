@@ -29,11 +29,11 @@
   
 - 📌 Currently working with Java and Kotlin for mobile development;
 
-- 🌱Currently learning Kotlin and Spring boot (And trying to improve my Front End skills); 
+- 📖Currently learning Kotlin and Spring boot (And trying to improve my Front End skills); 
 
 - 💬 If you need help, I'm willing to help!;
 
-- 🏆 I like to work with backend;
+- 🎯 I like to work with backend;
 
 - 🌎 Currently living in Brazil;
 
