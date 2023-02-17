@@ -55,7 +55,7 @@
   </div>
   
   
-  ## Meu Github Stats 
+  ## Meu GitHub Stats 
 <div align="center">
   
   
