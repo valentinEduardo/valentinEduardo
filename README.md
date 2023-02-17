@@ -18,7 +18,7 @@
 
 
 <div> 
-<img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
+<img align="right" width="40%" height="290cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
 
   
   
