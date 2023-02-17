@@ -6,7 +6,7 @@
     ---
   </div>
  <div> 
-  <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias. </p> 
+  <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias </p> 
   </div>
   
 </div>
@@ -18,7 +18,7 @@
 
 
 <div> 
-<img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim" />
+<img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
 
   
   
@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  ## <div> Entre em Contato Comigo e Outras Redes</div>
+  ## <div> Entre em Contato Comigo e Minhas Outras Redes</div>
 
 <a href="https://drive.google.com/file/d/1YMTZJzarnXUIbacVZJA5HgYNCwiyTcIM/view?usp=share_link" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
   <a href = "mailto:carvalhovalentindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,7 +51,7 @@
   </div>
   
   
-  ## Meu Github Stats ##
+  ## Meu Github Stats 
 <div align="center">
   
   
