@@ -6,6 +6,7 @@
     ---
   </div>
  <div> 
+   <p> My name is Valentin Eduardo </p>
   <p> A Software Development student looking for constant evolution, always attentive and willing to learn new technologies </p> 
   </div>
   
