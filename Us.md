@@ -35,7 +35,7 @@
 
 - 🎯 I like to work with backend;
 
-- 🌎 Currently living in Brazil;
+- 🌎 I was born and currently living in Brazil;
 
 </div>
 
