@@ -46,7 +46,7 @@
 
 <a href="https://drive.google.com/file/d/1YMTZJzarnXUIbacVZJA5HgYNCwiyTcIM/view?usp=share_link" target="_blank"><img height="25" src="https://img.shields.io/badge/-Download%20Resume-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
   <a href = "mailto:carvalhovalentindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/valentin-eduardo-264682233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/valentindev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://leetcode.com/ValentinEduardo/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   
   </div>
