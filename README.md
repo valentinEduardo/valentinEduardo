@@ -5,6 +5,9 @@
   <div>
     ---
   </div>
+  <div align="center"><a href="https://github.com/valentinEduardo/valentinEduardo/blob/main/Us.md" target="_blank"> CHANGE LANGUAGE  </a></div>
+  
+  ## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
  <div> 
    <p> Meu nome é Valentin Eduardo</p>
   <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias </p> 
@@ -12,10 +15,10 @@
   
 </div>
 
-<div align="center"><a href="https://github.com/valentinEduardo/valentinEduardo/blob/main/Us.md" target="_blank"> CHANGE LANGUAGE  </a></div>
 
 
-## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
+
+
 
 
 <div> 
