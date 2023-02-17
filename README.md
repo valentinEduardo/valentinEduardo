@@ -29,7 +29,7 @@
   
 - 📌 Atualmente trabalhando com Java e Kotlin para desenvolvimento mobile;
 
-- 📖 Atualmente aprendendo Kotlin e Springboot (E tentando melhorar minhas habilidades no Front End); 
+- 📖 Atualmente aprendendo Kotlin e Spring boot (E tentando melhorar minhas habilidades no Front End); 
 
 - 💬 Se precisar de ajuda, estarei disposto a ajudar!;
 
