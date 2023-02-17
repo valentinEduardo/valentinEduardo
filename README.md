@@ -11,7 +11,11 @@
   
 </div>
 
+<div align="center"><a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/README.md" target="_blank"> CHANGE LANGUAGE </a></div>
+
+
 ## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
+
 
 <div> 
 <img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim" />
