@@ -6,6 +6,7 @@
     ---
   </div>
  <div> 
+   <p> Meu nome é Valentin Eduardo</p>
   <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias </p> 
   </div>
   
