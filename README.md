@@ -1,11 +1,14 @@
 <div align="center">  
   
 #  
-<img align="center" width="100%" height="500cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
-  
-  
+<img align="center" width="90%" height="450cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
+  <div>
+    ---
+  </div>
+ <div> 
   <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias. </p> 
-
+  </div>
+  
 </div>
 
 ## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
@@ -15,7 +18,7 @@
 
   
   
- - ☕ Comecei estudando Lógica de Programação e a Linguagem C
+ - ☕ Comecei estudando Lógica de Programação e a Linguagem C;
   
   -  🧑‍💻 Sou um Desenvolvedor Full-Stack;
   
@@ -32,9 +35,9 @@
 </div>
 
 
-<div align="center" style="vertical-align:top margin-top:1000px">
+<div align="center">
   
-## Entre em Contato Comigo e Outras Redes
+  ## <div> Entre em Contato Comigo e Outras Redes</div>
 
 <a href="https://drive.google.com/file/d/1YMTZJzarnXUIbacVZJA5HgYNCwiyTcIM/view?usp=share_link" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
   <a href = "mailto:carvalhovalentindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
