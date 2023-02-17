@@ -1,27 +1,59 @@
+<div align="center">  
+  
+#  
+<img align="center" width="100%" height="500cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
+  
+  
+  <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias. </p> 
 
-<img align="center" src= "https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif"/>
+</div>
 
-## <div align="center">  Seja bem vindo (a)</div>
-<img align="right" width="40%" height="200cm" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" alt="Cat" />
+## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
 
-- 🧑‍💻 Sou um Desenvolvedor Full-Stack;
+<div> 
+<img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim" />
 
-- 📌 Atualmente trabalhando com Java e Kotlin
+  
+  
+ - ☕ Comecei estudando Lógica de Programação e a Linguagem C
+  
+  -  🧑‍💻 Sou um Desenvolvedor Full-Stack;
+  
+- 📌 Atualmente trabalhando com Java e Kotlin para desenvolvimento mobile;
 
-- 🌱 Atualmente aprendendo Kotlin; 
+- 🌱 Atualmente aprendendo Kotlin e Springboot (E tentando melhorar minhas habilidades no Front End); 
 
-- 💬 ;
+- 💬 Se precisar de ajuda, estarei disposto a ajudar!;
 
 - 🏆 Gosto de trabalhar com backend;
-- 
-<div align="center" margin="90cm">
+
+- 🌎 Atualmente vivendo no Brasil;
+
+</div>
+
+
+<div align="center" style="vertical-align:top margin-top:1000px">
+  
+## Entre em Contato Comigo e Outras Redes
+
+<a href="https://drive.google.com/file/d/1YMTZJzarnXUIbacVZJA5HgYNCwiyTcIM/view?usp=share_link" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
+  <a href = "mailto:carvalhovalentindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/valentin-eduardo-264682233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://leetcode.com/ValentinEduardo/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  
+  </div>
+  
+  
+  ## Meu Github Stats ##
+<div align="center">
   
   
   <a href="https://github.com/valentinEduardo">
    
- <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="valentinEduardo" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="valentinEduardo" />
     
  <img aling:  height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=15&theme=radical&locale=pt-br" alt="valentinEduardo"/>
+    
     
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinEduardo&theme=radical&locale=pt-br" alt="valentinEduardo" /></p>
@@ -30,7 +62,7 @@
 </div>
 
  
-## My Development Stack ##
+## Meu Development Stack ##
 
 > Aplicações e Dados
   
@@ -66,12 +98,7 @@
 <a><img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/> </a><a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="Figma" style="vertical-align:top margin:6px 4px"/></a>
 
 
- ## Entre em Contato Comigo e Outras Redes
-<div> 
-
-  <a href = "mailto:carvalhovalentindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/valentin-eduardo-264682233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
- 
+ <div>
+   
 ![Snake animation](https://github.com/valentinEduardo/valentinEduardo/blob/output/github-contribution-grid-snake.svg)
 </div>
