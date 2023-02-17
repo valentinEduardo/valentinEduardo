@@ -29,11 +29,11 @@
   
 - 📌 Atualmente trabalhando com Java e Kotlin para desenvolvimento mobile;
 
-- 🌱 Atualmente aprendendo Kotlin e Springboot (E tentando melhorar minhas habilidades no Front End); 
+- 📖 Atualmente aprendendo Kotlin e Springboot (E tentando melhorar minhas habilidades no Front End); 
 
 - 💬 Se precisar de ajuda, estarei disposto a ajudar!;
 
-- 🏆 Gosto de trabalhar com backend;
+- 🎯 Gosto de trabalhar com backend;
 
 - 🌎 Atualmente vivendo no Brasil;
 
