@@ -5,18 +5,16 @@
   <div>
     ---
   </div>
+  <div align="center"><a href="https://github.com/valentinEduardo" target="_blank"> MUDAR IDIOMA  </a></div>
+
+  
+  ## <div align="center">  Welcome to my profile!</div>
  <div> 
    <p> My name is Valentin Eduardo </p>
   <p> A Software Development student looking for constant evolution, always attentive and willing to learn new technologies </p> 
   </div>
   
 </div>
-
-<div align="center"><a href="https://github.com/valentinEduardo" target="_blank"> MUDAR IDIOMA  </a></div>
-
-
-## <div align="center">  Welcome to my profile!</div>
-
 
 <div> 
 <img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim" />
