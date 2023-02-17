@@ -35,7 +35,7 @@
 
 - 🎯 Gosto de trabalhar com backend;
 
-- 🌎 Atualmente vivendo no Brasil;
+- 🌎  Nasci e atualmente vivendo no Brasil;
 
 </div>
 
