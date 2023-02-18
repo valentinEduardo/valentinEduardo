@@ -1,7 +1,7 @@
 <div align="center">  
   
 #  
-<img align="center" width="100%" height="450cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
+<img align="center" width="100%" height="400cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
   <div>
     ---
   </div>
@@ -19,6 +19,7 @@
 
 <div> 
 <img align="right" width="37%" height="280cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
+  
  - ☕ Comecei estudando Lógica de Programação e a Linguagem C;
   
   -  🧑‍💻 Sou um Desenvolvedor Full-Stack;
