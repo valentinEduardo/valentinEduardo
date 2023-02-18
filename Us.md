@@ -1,19 +1,17 @@
 <div align="center">  
   
 #  
-<img align="center" width="90%" height="450cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
+<img align="center" width="85%" height="400cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
   <div>
     ---
   </div>
   <div align="center"><a href="https://github.com/valentinEduardo" target="_blank"> MUDAR IDIOMA  </a></div>
 
-  
-  ## <div align="center">  Welcome to my profile!</div>
  <div> 
-   <p> My name is Valentin Eduardo </p>
-  <p> A Software Development student looking for constant evolution, always attentive and willing to learn new technologies </p> 
-  </div>
-  
+   
+   ##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+profile!;+My+name+is+Valentin+Eduardo;+A+Software+Development+student;+looking+for+constant+evolution;+always+attentive+and+willing+to+learn+new+technologies)](https://git.io/typing-svg)
+   
+   
 </div>
 
 <div> 
