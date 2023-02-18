@@ -9,16 +9,19 @@
 
  <div> 
    
-   ##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+profile!;+My+name+is+Valentin+Eduardo;+A+Software+Development+student;+looking+for+constant+evolution;+always+attentive+and+willing+to+learn+new+technologies)](https://git.io/typing-svg)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+profile!;+My+name+is+Valentin+Eduardo;+A+Software+Development+student;+looking+for+constant+evolution;+always+attentive+and+willing+to+learn+new+technologies)](https://git.io/typing-svg)
    
    
 </div>
+  
 
+  
 <div> 
 <img align="right" width="40%" height="300cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim" />
 
   
-  
+  <div align="left">
+    
  - ☕ I started studying Programming Logic and the C Language;
   
   -  🧑‍💻 I'm a Full-Stack Developer;
@@ -32,7 +35,7 @@
 - 🎯 I like to work with backend;
 
 - 🌎 I was born and currently living in Brazil;
-
+  </div>
 </div>
 
 
@@ -48,8 +51,11 @@
   
   </div>
   
-  
+   <div align="left">
+     
   ## My Github Stats 
+     
+  </div>
 <div align="center">
   
   
@@ -66,9 +72,11 @@
     
 </div>
 
- 
+  <div align="left">
+    
 ## My Development Stack ##
-
+ 
+   
 > Applications and Data
   
 <div style="display: inline_block"><br>
@@ -87,9 +95,12 @@
    <img align="center" alt="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
    <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/spring/spring-original.svg">
 </div>
+  </div>
   
 ##
-
+  
+ <div align="left">
+   
 > DevOps
 > 
 <a><img height="25" src="https://img.shields.io/badge/-GitHub-%23181717?logo=GitHub&colorlogo=white" alt="GitHub" style="vertical-align:top margin:6px 4px"/></a>
@@ -101,7 +112,8 @@
 > Development Tools
 > 
 <a><img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/> </a><a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="Figma" style="vertical-align:top margin:6px 4px"/></a>
-
+   
+  </div>
 
  <div>
    
