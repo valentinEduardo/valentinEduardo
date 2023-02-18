@@ -7,11 +7,12 @@
   </div>
   <div align="center"><a href="https://github.com/valentinEduardo/valentinEduardo/blob/main/Us.md" target="_blank"> CHANGE LANGUAGE  </a></div>
   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá!,+Eu+sou+Valentin+Eduardo;+Seja+bem+vindo+ao+meu+Perfil)](https://git.io/typing-svg)
+  
   ## <div align="center">  Seja bem vindo(a) ao meu perfil!</div>
- <div> 
-   <p> Meu nome é Valentin Eduardo</p>
+ 
   <p> Um estudante de Desenvolvimento de Softwares buscando constante evolução, sempre atento e disposto a aprender novas tecnologias </p> 
-  </div>
+ 
   
 </div>
 
@@ -23,9 +24,6 @@
 
 <div> 
 <img align="right" width="37%" height="280cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
-
-  
-  
  - ☕ Comecei estudando Lógica de Programação e a Linguagem C;
   
   -  🧑‍💻 Sou um Desenvolvedor Full-Stack;
