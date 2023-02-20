@@ -1,7 +1,7 @@
 <div align="center">  
   
 #  
-<img align="center" width="100%" height="400cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
+<img align="center" width="70%" height="350cm" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer" />
   <div>
     ---
   </div>
