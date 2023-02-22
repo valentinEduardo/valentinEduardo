@@ -13,10 +13,6 @@
 
 
 
-
-
-
-
 <div> 
 <img align="right" width="37%" height="280cm" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Penguim"/>
   
