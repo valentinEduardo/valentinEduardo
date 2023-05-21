@@ -18,17 +18,17 @@
   
  - ☕ Comecei estudando Lógica de Programação e a Linguagem C;
   
-  -  🧑‍💻 Sou um Desenvolvedor Full-Stack;
+  -  🧑‍💻 Sou um Desenvolvedor Back-end e mobile;
   
-- 📌 Atualmente trabalhando com Java e Kotlin para desenvolvimento mobile;
+- 📌 Atualmente trabalhando com React native desenvolvimento mobile;
 
-- 📖 Atualmente aprendendo Kotlin e Spring boot (E tentando melhorar minhas habilidades no Front End); 
+- 📖 Atualmente aprendendo React native e Spring boot (E tentando melhorar minhas habilidades no Front End); 
 
 - 💬 Se precisar de ajuda, estarei disposto a ajudar!;
 
 - 🎯 Gosto de trabalhar com backend;
 
-- 🌎  Nasci e atualmente vivendo no Brasil;
+- 🌎  Nasci e atualmente moro no Brasil;
 
 </div>
 
