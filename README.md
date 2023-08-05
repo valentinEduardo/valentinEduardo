@@ -80,8 +80,6 @@
    <img align="center" alt="KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="FIG" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/figma/figma-original.svg">
-   <img align="center" alt="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-   <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/spring/spring-original.svg">
      <img align="center" alt="REACT_Native" height="30" width="40" src="https://raw.githubusercontent.com/valentinEduardo/devicon/master/icons/react/react-original.svg">
 </div>
   
