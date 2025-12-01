@@ -51,11 +51,11 @@
   
 <div align="center">
   <a href="https://github.com/valentinEduardo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="Estatísticas Gerais" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&theme=transparent" />
   </a>
   
   <a href="https://github.com/valentinEduardo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=7&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 
   <br />
