@@ -49,15 +49,20 @@
 <div align="center">
   
   
-  <a href="https://github.com/valentinEduardo">
-   
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="valentinEduardo" />
-    
- <img aling:  height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=15&theme=radical&locale=pt-br" alt="valentinEduardo"/>
-    
-    
 <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinEduardo&theme=radical&locale=pt-br" alt="valentinEduardo" /></p>
+  <a href="https://github.com/valentinEduardo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentinEduardo&show_icons=true&locale=pt-br&theme=radical" alt="Estatísticas Gerais" />
+  </a>
+  
+  <a href="https://github.com/valentinEduardo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinEduardo&layout=compact&langs_count=7&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/valentinEduardo">
+    <img src="https://streak-stats.demolab.com?user=valentinEduardo&theme=radical&locale=pt-br" alt="GitHub Streak" />
+  </a>
 </div>
     
 </div>
